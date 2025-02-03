@@ -1,6 +1,6 @@
 
 @tailwind components;
-@tailwind utilities; 
+@tailwind utilities;
 
 body{
    background-color: rgb(240, 240, 240);

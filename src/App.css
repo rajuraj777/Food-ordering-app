@@ -514,7 +514,7 @@ hr {
   font-weight: 400;
   display: -webkit-box; 
   -webkit-box-orient: vertical; 
-   -webkit-line-clamp: 2;  
+  -webkit-line-clamp: 2; 
   overflow: hidden; 
   text-overflow: ellipsis;
 }
@@ -522,7 +522,7 @@ hr {
   font-weight: 500;
   display: -webkit-box; 
   -webkit-box-orient: vertical; 
-  -webkit-line-clamp: 1;  
+  -webkit-line-clamp: 1; 
   overflow: hidden; 
   text-overflow: ellipsis;
 }

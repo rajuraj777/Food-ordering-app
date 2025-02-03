@@ -24,7 +24,7 @@ const Footer = () => {
         >
           <i className="ri-linkedin-box-fill dark:tw-text-zinc-100"></i>
         </Link>
-        <Link 
+        <Link
           to="https://github.com/Rajukumar0398"
           className="footer-icon-link" aria-label="Linking Github"
         >

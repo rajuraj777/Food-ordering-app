@@ -1,4 +1,4 @@
- import ResCard, { ResCardWithPromotedLabel } from "./ResCard";
+import ResCard, { ResCardWithPromotedLabel } from "./ResCard";
 import { useContext, useEffect, useState } from "react";
 import { SWIGGY_API, SWIGGY_API3 } from "../utils/constants";
 import Shimmer from "./Shimmer";
